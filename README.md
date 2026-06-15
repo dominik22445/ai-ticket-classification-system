@@ -85,30 +85,10 @@ Prośby o zmianę wcześniej ustalonych terminów lub parametrów usługi.
 
 ```json
 {
-  "category": "NOWA_WYCENA",
-  "priority": "WYSOKI"
+  "kategoria": "NOWA_WYCENA",
+  "priorytet": "WYSOKI"
 }
 ```
-
----
-
-## Screenshoty
-
-### Workflow w Make
-
-Dodaj screenshot przedstawiający pełny scenariusz klasyfikacji.
-
-### Klasyfikacja AI
-
-Dodaj screenshot odpowiedzi modelu OpenAI lub wyniku JSON.
-
-### Google Sheets
-
-Dodaj screenshot zapisanych zgłoszeń wraz z przypisaną kategorią.
-
-### Powiadomienia e-mail
-
-Dodaj screenshot wiadomości wysyłanych po sklasyfikowaniu zgłoszenia.
 
 ---
 
