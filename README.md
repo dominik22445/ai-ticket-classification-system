@@ -53,7 +53,7 @@ Router → Google Sheets → Powiadomienie e-mail → Odpowiedni proces obsługi
 ![Sample Email](sample-email.png)
 
 ### Wynik klasyfikacji AI
-![Classification Result](classification-result.png)
+![Classification Result](classification-result.json.png)
 
 ### Arkusz – Harmonogram
 ![Schedule Sheet](schedule-sheet.png)
