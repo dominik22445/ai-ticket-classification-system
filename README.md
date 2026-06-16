@@ -44,6 +44,28 @@ Router → Google Sheets → Powiadomienie e-mail → Odpowiedni proces obsługi
 
 ---
 
+## Przykładowe działanie
+
+### Workflow w Make
+![Workflow](workflow-make.png)
+
+### Przykładowa wiadomość klienta
+![Sample Email](sample-email.png)
+
+### Wynik klasyfikacji AI
+![Classification Result](classification-result.png)
+
+### Arkusz – Harmonogram
+![Schedule Sheet](schedule-sheet.png)
+
+### Arkusz – Klienci wysokowartościowi
+![High Value Clients](high-value-sheet.png)
+
+### Powiadomienie e-mail
+![Notification Email](notification-email.png)
+
+---
+
 ## Funkcje
 
 * automatyczna analiza treści wiadomości,
