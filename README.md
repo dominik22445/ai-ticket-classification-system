@@ -63,7 +63,7 @@ Router → Google Sheets → Powiadomienie e-mail → Odpowiedni proces obsługi
 
 Wiadomości dotyczące problemów z usługą lub zgłoszeń reklamacyjnych.
 
-### Klient wysokowartościowy
+### Wysokowartościowy lead
 
 Zapytania od klientów o dużym potencjale biznesowym wymagające szybkiej reakcji.
 
@@ -86,7 +86,7 @@ Prośby o zmianę wcześniej ustalonych terminów lub parametrów usługi.
 ```json
 {
   "kategoria": "NOWA_WYCENA",
-  "priorytet": "WYSOKI"
+  "priorytet": "ŚREDNI"
 }
 ```
 
